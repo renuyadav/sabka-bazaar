@@ -1,0 +1,51 @@
+/* styles.css */
+
+/* Common styles for cards and layout */
+.product-listing {
+  display: grid;
+  gap: 20px;
+
+  .card-list {
+    // grid-template-columns: 1fr; /* One card per row */
+    gap: 20px;
+  }
+  .desktop-categories {
+    display: none;
+  }
+}
+
+/* Medium Mobile (Portrait) */
+@media (min-width: 768px) {
+  .product-listing {
+    grid-template-columns: 1fr 3fr; /* Sidebar and card list */
+    padding: 0;
+    .mobile-categories {
+      display: none;
+    }
+    .desktop-categories {
+      display: block;
+    }
+    .card-list {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr); /* Two cards per row */
+    }
+  }
+}
+/* Desktop*/
+@media (max-width: 1199px) {
+  .product-listing {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+/* Desktop*/
+@media (min-width: 1200px) {
+  /* Your styles here */
+  .product-listing {
+    .card-list {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* Three cards per row */
+    }
+  }
+}

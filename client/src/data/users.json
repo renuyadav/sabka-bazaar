@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "admin",
+      "lastName": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "confirmPassword": "admin"
+    },
+    {
+      "id": 2,
+      "firstName": "renu",
+      "lastName": "yadav",
+      "email": "renu@gmail.com",
+      "password": "renu",
+      "confirmPassword": "renu"
+    }
+  ]
+}

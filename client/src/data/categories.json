@@ -1,0 +1,529 @@
+{
+  "categories": [
+    {
+      "categoryID": "281",
+      "name": "Staples",
+      "children": [
+        "313",
+        "305",
+        "317",
+        "319",
+        "311",
+        "315",
+        "361",
+        "309",
+        "303"
+      ],
+      "description": "Explore best staple food derived from plants or animal products.",
+      "image": "media/simple/60/015/1-catalog.jpg"
+    },
+    {
+      "categoryID": "313",
+      "name": "Masalas & Spices",
+      "children": []
+    },
+    {
+      "categoryID": "305",
+      "name": "Wheat, Dals & Pulses",
+      "children": []
+    },
+    {
+      "categoryID": "317",
+      "name": "Oils & Ghee",
+      "children": []
+    },
+    {
+      "categoryID": "319",
+      "name": "Dry Fruits & Nuts",
+      "children": []
+    },
+    {
+      "categoryID": "311",
+      "name": "Rice",
+      "children": []
+    },
+    {
+      "categoryID": "315",
+      "name": "Indian Breakfast",
+      "children": []
+    },
+    {
+      "categoryID": "361",
+      "name": "Papads and Fryums",
+      "children": []
+    },
+    {
+      "categoryID": "309",
+      "name": "Salt, Sugar and Jaggery",
+      "children": []
+    },
+    {
+      "categoryID": "303",
+      "name": "Atta & Flours",
+      "children": []
+    },
+    {
+      "categoryID": "287",
+      "name": "Snacks & Packaged Food",
+      "children": [
+        "377",
+        "355",
+        "1057",
+        "373",
+        "363",
+        "375",
+        "379",
+        "357",
+        "359",
+        "365",
+        "371"
+      ],
+      "description": "Explore Sancks and packaged foods at best rates.",
+      "image": "media/simple/66/282/2-catalog.jpg"
+    },
+    {
+      "categoryID": "377",
+      "name": "Biscuits & Cookies",
+      "children": []
+    },
+    {
+      "categoryID": "355",
+      "name": "Wafers & Snacks",
+      "children": []
+    },
+    {
+      "categoryID": "1057",
+      "name": "Instant Foods",
+      "children": []
+    },
+    {
+      "categoryID": "373",
+      "name": "Chocolates and Sweets",
+      "children": []
+    },
+    {
+      "categoryID": "363",
+      "name": "Noodles",
+      "children": []
+    },
+    {
+      "categoryID": "375",
+      "name": "Breakfast Cereals",
+      "children": []
+    },
+    {
+      "categoryID": "379",
+      "name": "Baking & Dessert Needs",
+      "children": []
+    },
+    {
+      "categoryID": "357",
+      "name": "Ready to Eat & Cook",
+      "children": []
+    },
+    {
+      "categoryID": "359",
+      "name": "Pasta",
+      "children": []
+    },
+    {
+      "categoryID": "365",
+      "name": "Health & Dietary Supplements",
+      "children": []
+    },
+    {
+      "categoryID": "371",
+      "name": "Digestives & Mouth Fresheners",
+      "children": []
+    },
+    {
+      "categoryID": "289",
+      "name": "Personal Care & Beauty",
+      "children": [
+        "401",
+        "403",
+        "399",
+        "389",
+        "387",
+        "395",
+        "383",
+        "385",
+        "393",
+        "391"
+      ],
+      "description": "Buy beauty and personal care products online at best prices.",
+      "image": "media/simple/76/972/2-catalog.jpg"
+    },
+    {
+      "categoryID": "401",
+      "name": "Hair Care",
+      "children": []
+    },
+    {
+      "categoryID": "403",
+      "name": "Soaps & Body Wash",
+      "children": []
+    },
+    {
+      "categoryID": "399",
+      "name": "Skin Care",
+      "children": []
+    },
+    {
+      "categoryID": "389",
+      "name": "Oral Care",
+      "children": []
+    },
+    {
+      "categoryID": "387",
+      "name": "Fem Hygiene Needs",
+      "children": []
+    },
+    {
+      "categoryID": "395",
+      "name": "Deos, Perfumes and Talcs",
+      "children": []
+    },
+    {
+      "categoryID": "383",
+      "name": "Medicare Products",
+      "children": []
+    },
+    {
+      "categoryID": "385",
+      "name": "Shaving Needs",
+      "children": []
+    },
+    {
+      "categoryID": "393",
+      "name": "Beauty Accessories",
+      "children": []
+    },
+    {
+      "categoryID": "391",
+      "name": "Cosmetics",
+      "children": []
+    },
+    {
+      "categoryID": "267",
+      "name": "Home Care and Laundry",
+      "children": [
+        "429",
+        "425",
+        "427",
+        "415",
+        "417",
+        "409",
+        "421",
+        "419",
+        "407",
+        "1113",
+        "1066",
+        "855",
+        "411"
+      ],
+      "description": "Explore offers on our Home Care and Laundry items.",
+      "image": "media/simple/78/552/2-catalog.jpg"
+    },
+    {
+      "categoryID": "429",
+      "name": "Detergents and Laundry Aids",
+      "children": []
+    },
+    {
+      "categoryID": "425",
+      "name": "Utensil Cleaners",
+      "children": []
+    },
+    {
+      "categoryID": "427",
+      "name": "Toilet, Floor & Other Cleaners",
+      "children": []
+    },
+    {
+      "categoryID": "415",
+      "name": "Home & Kitchen Cleaning Tools",
+      "children": []
+    },
+    {
+      "categoryID": "417",
+      "name": "Disposable Goods",
+      "children": []
+    },
+    {
+      "categoryID": "409",
+      "name": "Pooja Needs",
+      "children": []
+    },
+    {
+      "categoryID": "421",
+      "name": "Insect Repellents",
+      "children": []
+    },
+    {
+      "categoryID": "419",
+      "name": "Home & Air Fresheners",
+      "children": []
+    },
+    {
+      "categoryID": "407",
+      "name": "Shoe Care",
+      "children": []
+    },
+    {
+      "categoryID": "1113",
+      "name": "Home Essentials",
+      "children": []
+    },
+    {
+      "categoryID": "1066",
+      "name": "Laundry Essentials",
+      "children": []
+    },
+    {
+      "categoryID": "855",
+      "name": "Hangers & Clips",
+      "children": []
+    },
+    {
+      "categoryID": "411",
+      "name": "Electricals",
+      "children": []
+    },
+    {
+      "categoryID": "293",
+      "name": "Beverages",
+      "children": ["337", "339", "331", "333", "335", "327"],
+      "description": "Our beverage department will ensure your fridge is always fully stocked. Shop for soda, juice, beer and more.",
+      "image": "media/simple/00/832/1_1-catalog.jpg"
+    },
+    {
+      "categoryID": "337",
+      "name": "Juices and Concentrates",
+      "children": []
+    },
+    {
+      "categoryID": "339",
+      "name": "Tea & Coffee",
+      "children": []
+    },
+    {
+      "categoryID": "331",
+      "name": "Soft Drinks",
+      "children": []
+    },
+    {
+      "categoryID": "333",
+      "name": "Health Drinks",
+      "children": []
+    },
+    {
+      "categoryID": "335",
+      "name": "Sports & Energy Drinks",
+      "children": []
+    },
+    {
+      "categoryID": "327",
+      "name": "Water",
+      "children": []
+    },
+    {
+      "categoryID": "283",
+      "name": "Bakery & Dairy",
+      "children": ["323", "325"],
+      "description": "The best cupcakes, cookies, cakes, pies, cheesecakes, fresh bread, biscotti, muffins, bagels, fresh coffee, milk and more.",
+      "image": "media/simple/19/792/1_1-catalog.jpg"
+    },
+    {
+      "categoryID": "323",
+      "name": "Dairy Products",
+      "children": []
+    },
+    {
+      "categoryID": "325",
+      "name": "Bread & Bakery",
+      "children": []
+    },
+    {
+      "categoryID": "285",
+      "name": "Jams, Spreads & Sauces",
+      "children": ["1052", "343", "345", "635", "351", "347"],
+      "description": "Buy best quality jams, spreads & sauces",
+      "image": "media/simple/03/962/1-catalog.jpg"
+    },
+    {
+      "categoryID": "1052",
+      "name": "Dressings & Sauces",
+      "children": []
+    },
+    {
+      "categoryID": "343",
+      "name": "Pickles & Chutneys",
+      "children": []
+    },
+    {
+      "categoryID": "345",
+      "name": "Spreads and Dips",
+      "children": []
+    },
+    {
+      "categoryID": "635",
+      "name": "Tomato Ketchup",
+      "children": []
+    },
+    {
+      "categoryID": "351",
+      "name": "Cooking Pastes & Marinades",
+      "children": []
+    },
+    {
+      "categoryID": "347",
+      "name": "Honey",
+      "children": []
+    },
+    {
+      "categoryID": "1073",
+      "name": "Home Fashion",
+      "children": ["1075", "1155", "1076", "1146"],
+      "description": "Explore home fashion items at best rates.",
+      "image": "media/simple/43/593/1-catalog.jpg"
+    },
+    {
+      "categoryID": "1075",
+      "name": "Kitchen Towel",
+      "children": []
+    },
+    {
+      "categoryID": "1155",
+      "name": "Door Mats",
+      "children": []
+    },
+    {
+      "categoryID": "1076",
+      "name": "Face Towel",
+      "children": []
+    },
+    {
+      "categoryID": "1146",
+      "name": "Utility Bags",
+      "children": []
+    },
+    {
+      "categoryID": "291",
+      "name": "Kitchen & Utility",
+      "children": ["433", "1060", "911", "431", "899", "439"],
+      "description": "Explore our best range of kitchen and utility items.",
+      "image": "media/simple/76/492/1-catalog.jpg"
+    },
+    {
+      "categoryID": "433",
+      "name": "Kitchen Tools",
+      "children": []
+    },
+    {
+      "categoryID": "1060",
+      "name": "Water Bottles & Flasks",
+      "children": []
+    },
+    {
+      "categoryID": "911",
+      "name": "Casseroles",
+      "children": []
+    },
+    {
+      "categoryID": "431",
+      "name": "Storage & Containers",
+      "children": []
+    },
+    {
+      "categoryID": "899",
+      "name": "Drinkware",
+      "children": []
+    },
+    {
+      "categoryID": "439",
+      "name": "Dinnerware",
+      "children": []
+    },
+    {
+      "categoryID": "397",
+      "name": "Baby Care",
+      "children": ["735", "729"],
+      "description": "Shop online for Baby Products, Diapers, Skin Care Products,etc.",
+      "image": "media/simple/62/66/1-catalog.jpg"
+    },
+    {
+      "categoryID": "735",
+      "name": "Bath & Skin",
+      "children": []
+    },
+    {
+      "categoryID": "729",
+      "name": "Diapers & Wipes",
+      "children": []
+    },
+    {
+      "categoryID": "268",
+      "name": "Stationery & Toys",
+      "children": ["851", "1036"],
+      "description": "Buy our premuim range of stationary and toys.",
+      "image": "media/simple/62/103/1-catalog.jpg"
+    },
+    {
+      "categoryID": "851",
+      "name": "Pens",
+      "children": []
+    },
+    {
+      "categoryID": "1036",
+      "name": "Rakhi",
+      "children": []
+    },
+    {
+      "categoryID": "1003",
+      "name": "Eggs, Meats & Seafoods",
+      "children": ["1011"],
+      "description": "Explore our fresh eggs, meats and seafoods section for your taste buds.",
+      "image": "media/simple/17/23/1_3-catalog.jpg"
+    },
+    {
+      "categoryID": "1011",
+      "name": "Frozen Non-Veg Snacks",
+      "children": []
+    },
+    {
+      "categoryID": "279",
+      "name": "Fruits & Vegetables",
+      "children": ["1041"],
+      "description": "A variety of fresh fruits and vegetables.",
+      "image": "media/images/fruits.png"
+    },
+    {
+      "categoryID": "1041",
+      "name": "Vegetables",
+      "children": []
+    },
+    {
+      "categoryID": "996",
+      "name": "Pet Care",
+      "children": ["1038"],
+      "description": "Buy pet care products at best rates.",
+      "image": "media/simple/93/462/1-catalog.jpg"
+    },
+    {
+      "categoryID": "1038",
+      "name": "Dog & Cat Foods",
+      "children": []
+    },
+    {
+      "categoryID": "405",
+      "name": "Soaps",
+      "children": []
+    },
+    {
+      "categoryID": "1062",
+      "name": "Home Furniture & Decor",
+      "children": []
+    }
+  ]
+}
